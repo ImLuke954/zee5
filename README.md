@@ -47,7 +47,7 @@ https://www.apachefriends.org/download.html
 • In VLC, Tivimate or OTT Navigator Put Links Format Like Below :
 
 ```
-http://localhost:8080/zee5/playlist.php
+http://localhost/zee5/playlist.php
 ```
 
 • Hurray !! Now Play & Enjoy ZEE5 Channels 🎉.
